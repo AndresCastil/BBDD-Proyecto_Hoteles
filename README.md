@@ -1,2 +1,2 @@
-# BBDD-Proyecto_Hoteles
+# BBDD-Proyecto_buscador_Hoteles
 Documentación
